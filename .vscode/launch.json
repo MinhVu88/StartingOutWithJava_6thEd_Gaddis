@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestScores_Invalid_Tester",
+            "request": "launch",
+            "mainClass": "ProgrammingChallenges.Ch11.TestScores_Invalid_Tester",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleWindowDemo",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter12GUIApplications.SimpleWindowDemo",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EmbeddedMain",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter12GUIApplications.EmbeddedMain",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BuildEntertainmentDB",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter17Databases.BuildEntertainmentDB",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticDemo",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter8A2ndLookAtClassesAndObjects.StaticDemo",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CourseDemo",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter8A2ndLookAtClassesAndObjects.CourseDemo",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Columns",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter3DecisionStructures.Columns",
+            "projectName": "StartingOutWithJava6thEd"
+        }
+    ]
+}

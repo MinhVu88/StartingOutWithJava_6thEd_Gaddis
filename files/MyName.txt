@@ -1,0 +1,6 @@
+Alan Turing
+James Gosling
+Dennis Ritchie
+Bjarne Stroustrup
+Guido van Rossum
+Brendan Eich
