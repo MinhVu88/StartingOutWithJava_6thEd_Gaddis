@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CP41PG193",
+            "request": "launch",
+            "mainClass": "checkpoints.ch4.CP41PG193",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CP320PG151",
+            "request": "launch",
+            "mainClass": "checkpoints.ch3.CP320PG151",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "TestConnection",
+            "request": "launch",
+            "mainClass": "code_listings.ch_17_databases.TestConnection",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "cp320pg151",
+            "request": "launch",
+            "mainClass": "checkpoints.ch3.cp320pg151",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestScores_Invalid_Tester",
             "request": "launch",
             "mainClass": "ProgrammingChallenges.Ch11.TestScores_Invalid_Tester",
